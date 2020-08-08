@@ -7,8 +7,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Gatsby + Node.js (TypeScript) API',
-        short_name: 'Gatsby + Node.js (TypeScript)',
+        name: 'PAAANN TECH',
+        short_name: 'PAAANN TECH',
         start_url: '/',
         icon: 'src/images/gatsby-icon.png',
       },
